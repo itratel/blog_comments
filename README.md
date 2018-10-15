@@ -1,2 +1,2 @@
-# blob_comments
-blob_comments
+# blog_comments
+blog_comments
